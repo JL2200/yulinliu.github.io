@@ -1,6 +1,1 @@
-title: Jason Liu – Robotics & Automation
-logo: /assets/img/logo.png
-description: Personal portfolio and projects.
-show_downloads: false
-google_analytics:
-# theme: jekyll-theme-minimal   ← optional, now commented
+theme: jekyll-theme-minimal
