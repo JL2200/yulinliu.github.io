@@ -9,7 +9,7 @@ I’m a Mechanical Engineering student at UC San Diego, passionate about automat
 
 💡 Trilingual (English, Mandarin, Cantonese)  
 📍 Based in San Diego, open to relocation  
-📄 [Download My Resume](Jason_Liu_Resume.pdf)  
+📄 [Download My Resume](Jason_CV.pdf)  
 🔗 [LinkedIn](https://www.linkedin.com/in/yulin-liu-473862230) • [GitHub](https://github.com/YulinLiu202) • 📧 [yul202@ucsd.edu](mailto:yul202@ucsd.edu)
 
 ---
