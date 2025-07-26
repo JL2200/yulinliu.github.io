@@ -1,36 +1,37 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta charset="UTF-8">
+    <meta charset="utf-8">
     <title>{{ site.title }}</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="/assets/css/style.css">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
   </head>
-
   <body>
     <div class="container">
-      <aside class="sidebar">
-        <img src="/images/photo.jpg" alt="Profile" />
+      <div class="sidebar">
+        <img src="{{ '/images/photo.jpg' | relative_url }}" alt="Profile Photo" />
         <h2>Yulin (Jason) Liu</h2>
         <p><strong>Mechanical Engineering @ UC San Diego</strong></p>
         <p>San Diego, CA</p>
         <p>
           <a href="mailto:yul202@ucsd.edu">Email</a> |
-          <a href="https://linkedin.com/in/yulin-liu-473862230">LinkedIn</a> |
-          <a href="https://github.com/yulinliu2002">GitHub</a>
+          <a href="https://www.linkedin.com/in/yulin-liu-473862230/" target="_blank">LinkedIn</a> |
+          <a href="https://github.com/yulinliu2002" target="_blank">GitHub</a>
         </p>
-
-        <h2 class="section-title">About Me</h2>
+        <hr>
+        <h2>About Me</h2>
         <p>
-          I’m a mechanical engineer passionate about robotics, automation, and control systems.
-          With hands-on experience at Trane Technologies and research labs at UC San Diego, I’ve led efforts in robotic integration, workflow optimization, and precision biomechanical system design.
+          I’m a mechanical engineer passionate about robotics, automation, and control systems. 
+          With hands-on experience at Trane Technologies and research labs at UC San Diego, I’ve led 
+          efforts in robotic integration, workflow optimization, and precision biomechanical system design. 
           I thrive at the intersection of mechanical design, embedded systems, and human-centered engineering.
         </p>
-      </aside>
+      </div>
 
-      <main class="main-content">
-        {{ content }}
-      </main>
+      <div class="main-content">
+        <div class="content-inner">
+          {{ content }}
+        </div>
+      </div>
     </div>
   </body>
 </html>
