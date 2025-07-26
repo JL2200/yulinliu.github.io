@@ -25,12 +25,12 @@ Musculoskeletal injuries require lab-based mechanical stimulation for tissue reg
 **Figures:**
 <figure>
   <img src="images/SeniorDesign/Assembly.jpg" width="400"/>
-  <figcaption><em>Figure 1: Final hardware assembly</em></figcaption>
+  <figcaption><em>Figure 1: Final Hardware Assembly</em></figcaption>
 </figure>
 
 <figure>
   <img src="images/SeniorDesign/CAD.jpg" width="400"/>
-  <figcaption><em>Figure 2: CAD rendering</em></figcaption>
+  <figcaption><em>Figure 2: CAD Rendering</em></figcaption>
 </figure>
 
 ---
@@ -47,12 +47,12 @@ Built a fully functioning autonomous vehicle from scratch.
 **Figures:**
 <figure>
   <img src="images/AutoCar/github_photo.jpg" width="400"/>
-  <figcaption><em>Figure 1: Final hardware assembly</em></figcaption>
+  <figcaption><em>Figure 1: The TranquiBot</em></figcaption>
 </figure>
 
 <figure>
   <img src="images/AutoCar/group photo.jpg" width="400"/>
-  <figcaption><em>Figure 2: CAD rendering</em></figcaption>
+  <figcaption><em>Figure 2: Group Photo</em></figcaption>
 </figure>
 
 ---
@@ -66,12 +66,12 @@ Led experiments and simulations on boomerang joint angles and flight stability.
 **Figures:**
 <figure>
   <img src="images/Boomerang/UWB.png" width="400"/>
-  <figcaption><em>Figure 1: Final hardware assembly</em></figcaption>
+  <figcaption><em>Figure 1: Sensors and Data Capturing</em></figcaption>
 </figure>
 
 <figure>
   <img src="images/Boomerang/simulation.jpg" width="400"/>
-  <figcaption><em>Figure 2: CAD rendering</em></figcaption>
+  <figcaption><em>Figure 2: Triblader Aerodynamics</em></figcaption>
 </figure>
 
 ---
@@ -86,12 +86,12 @@ Designed and built a competitive robot to transport blocks across simulated floo
 **Figures:**
 <figure>
   <img src="images/Robot/robot photo.png" width="400"/>
-  <figcaption><em>Figure 1: Final hardware assembly</em></figcaption>
+  <figcaption><em>Figure 1: Robot in Motion</em></figcaption>
 </figure>
 
 <figure>
   <img src="images/Robot/animation.png" width="400"/>
-  <figcaption><em>Figure 2: CAD rendering</em></figcaption>
+  <figcaption><em>Figure 2: Animation</em></figcaption>
 </figure>
 
 ---
@@ -106,7 +106,7 @@ Synthesized novel materials via solvothermal techniques.
 **Figures:**
 <figure>
   <img src="images/Xtreme/procedure.jpg" width="400"/>
-  <figcaption><em>Figure 1: Final hardware assembly</em></figcaption>
+  <figcaption><em>Figure 1: Power Washing Process</em></figcaption>
 </figure>
 
 ---
