@@ -4,18 +4,11 @@ body {
   padding: 0;
   background-color: #fdfdfd;
   color: #333;
-  overflow-x: hidden; /* Prevent horizontal scroll */
-}
-
-.container {
-  display: flex;
-  height: 100vh; /* Full viewport height */
-  overflow: hidden;
+  overflow-x: hidden;
 }
 
 .sidebar {
-  width: 40%;
-  max-width: 400px;
+  width: 350px; /* Fixed pixel width works better for fixed layout */
   background-color: #fafafa;
   padding: 40px 30px;
   box-shadow: 2px 0 10px rgba(0, 0, 0, 0.05);
@@ -23,8 +16,10 @@ body {
 
   position: fixed;
   top: 0;
+  left: 0;
   height: 100vh;
   overflow-y: auto;
+  z-index: 100;
 }
 
 .sidebar img {
@@ -55,7 +50,7 @@ body {
 }
 
 .main-content {
-  margin-left: 40%; /* Match sidebar width */
+  margin-left: 350px; /* Same as .sidebar width */
   padding: 50px;
   background-color: #ffffff;
   overflow-y: auto;
