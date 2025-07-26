@@ -1,103 +1,102 @@
-# Yulin (Jason) Liu
+---
+layout: default
+title: Yulin (Jason) Liu
+---
 
-<img src="images/photo.jpg" width="220"/>
+![Profile Picture](images/profile.jpg)
 
-Mechanical Engineering @ UC San Diego  
-**Robotics | Automation | Biomechanics**  
-📍 San Diego, CA  
-🔗 [LinkedIn](https://linkedin.com/in/yulin-liu-473862230) | ✉️ [yul202@ucsd.edu](mailto:yul202@ucsd.edu) | [GitHub](https://github.com/JL2200)
+# 👋 Hi, I’m Yulin (Jason) Liu
+
+**Mechanical Engineer | Robotics & Automation | Controls | Manufacturing**  
+🔍 Actively seeking full-time roles | 💼 UC San Diego ’25 | 📫 [yul202@ucsd.edu](mailto:yul202@ucsd.edu)  
+[LinkedIn](https://www.linkedin.com/in/yulin-liu-473862230/) | [GitHub](https://github.com/JL2200)  
 
 ---
 
-## About Me
+## 🔧 Skills & Tools
 
-I'm a mechanical engineer passionate about robotics, automation, and control systems. With hands-on experience at Trane Technologies and research labs at UC San Diego, I've led efforts in robotic integration, workflow optimization, and precision biomechanical system design. I thrive at the intersection of mechanical design, embedded systems, and human-centered engineering.
+- **Programming**: Python, C++, MATLAB, LabVIEW
+- **Design & Simulation**: SolidWorks, Fusion 360, AutoCAD, ANSYS
+- **Hardware**: Arduino, Raspberry Pi, FANUC Robot, PLCs (Allen-Bradley, Siemens)
+- **Languages**: English, Mandarin, Cantonese
 
 ---
 
-## Selected Projects
+## 📁 Projects
 
 ### 🧬 Cellxercise Machine (Biomechanical Culture Reactor)
 Musculoskeletal injuries require lab-based mechanical stimulation for tissue regeneration. Our system advances tissue engineering by applying both cyclic tension and compression inside a sterilizable, incubator-safe environment.
 
-- Dual-mode mechanical loading (up to 20N at 1Hz)  
-- Real-time force feedback, LabVIEW control, reusable modular clamps  
+- Dual-mode mechanical loading (up to 20N at 1Hz)
+- Real-time force feedback, LabVIEW control, reusable modular clamps
 - Improved over commercial systems like ShellPa Pro
 
-**Figures:**  
-<img src="images/SeniorDesign/Assembly.jpg" width="200"/>  
-<figcaption><i>Figure 1: Final hardware assembly</i></figcaption>  
-<br>  
-<img src="images/SeniorDesign/CAD.jpg" width="200"/>  
-<figcaption><i>Figure 2: CAD rendering</i></figcaption>
+**Figures:**
+- ![Figure 1](images/SeniorDesign/Assembly.jpg)
+- ![Figure 2](images/SeniorDesign/CAD.jpg)
 
 ---
 
 ### 🚗 Autonomous Vehicle Robot
 Built a fully functioning autonomous vehicle from scratch.
 
-- Lane detection with OpenCV, GPS, and LiDAR  
-- Integrated ChatGPT for dynamic path generation  
+- Lane detection with OpenCV, GPS, and LiDAR
+- Integrated ChatGPT for dynamic path generation
 - ROS2-based, using Jetson Nano, DonkeyCar, OakD, and Point One GPS
 
 📎 [Project GitHub Repo](https://github.com/JL2200/mae148_group8)
 
-**Figures:**  
-<img src="images/AutoCar/github_photo.jpg" width="200"/>  
-<figcaption><i>Figure 1: Vehicle overview</i></figcaption>  
-<br>  
-<img src="images/AutoCar/group photo.jpg" width="200"/>  
-<figcaption><i>Figure 2: Team presentation</i></figcaption>
+**Figures:**
+- ![Figure 1](images/AutoCar/github_photo.jpg)
+- ![Figure 2](images/AutoCar/group photo.jpg)
 
 ---
 
 ### 🌀 Boomerang Aerodynamics Study
-Focused on the aerodynamics of boomerang flight.
+Led experiments and simulations on boomerang joint angles and flight stability.
 
-- Oversaw Ultra-Wideband (UWB) experiments to track boomerang trajectories, contributing data for an AIAA paper on wing tip deflection  
-- Integrated experimental data into MATLAB for airflow simulations  
-- Carried out 15 field trials under various joint angles and low wind conditions
+- Conducted UWB-based field tests with MATLAB airflow simulations
+- Data used for AIAA paper on wingtip deflection and orientation performance
 
-**Figures:**  
-<img src="images/Boomerang/UWB.png" width="200"/>  
-<figcaption><i>Figure 1: UWB tracker and prototype</i></figcaption>  
-<br>  
-<img src="images/Boomerang/simulation.jpg" width="200"/>  
-<figcaption><i>Figure 2: MATLAB simulation result</i></figcaption>
+**Figures:**
+- ![Figure 1](images/Boomerang/UWB.png)
+- ![Figure 2](images/Boomerang/simulation.jpg)
 
 ---
 
 ### 🤖 Robotic Lift Mechanism
-Designed and built a competitive robot to transport blocks across simulated dorm floors.
+Designed and built a competitive robot to transport blocks across simulated floors.
 
-- Integrated claw, four-bar linkage, and drivetrain  
-- Double torque gear system with 1:4 ratio increased lift capacity by 30%  
+- Integrated claw, four-bar linkage, and drivetrain
+- Double torque gear system with 1:4 ratio increased lift capacity by 30%
 - Simulated and prototyped with SolidWorks and laser cutting
 
-**Figures:**  
-<img src="images/Robot/robot photo.png" width="200"/>  
-<figcaption><i>Figure 1: Robot in action</i></figcaption>  
-<br>  
-<img src="images/Robot/animation.png" width="200"/>  
-<figcaption><i>Figure 2: CAD animation</i></figcaption>
+**Figures:**
+- ![Figure 1](images/Robot/robot photo.png)
+- ![Figure 2](images/Robot/animation.png)
 
 ---
 
 ### 🧪 Xtreme Materials Lab (UCSD)
-Conducted a series of precise procedures for the synthesis of materials using solvothermal techniques.
+Synthesized novel materials via solvothermal techniques.
 
-- Utilized glove box for inert environment preparation  
-- Precursors included carbon and lithium compounds, followed by controlled heating  
-- Final material purification through centrifugation, acid-washing, and ultrasonic treatment
+- Glove box preparation, inert mixing of carbon-lithium precursors
+- Centrifugation, ultrasonic treatment, and acid washing to ensure purity
+- Focus on extreme environment material integrity
 
-**Figure:**  
-<img src="images/Xtreme/procedure.jpg" width="200"/>  
-<figcaption><i>Figure: Synthesis and purification workflow</i></figcaption>
+**Figure:**
+- ![Procedure](images/Xtreme/procedure.jpg)
 
 ---
 
 ## 📄 Resume
 [Download CV (PDF)](Jason_CV.pdf)
+
+---
+
+## 📬 Contact
+**Email**: [yul202@ucsd.edu](mailto:yul202@ucsd.edu)  
+**LinkedIn**: [linkedin.com/in/yulin-liu-473862230](https://www.linkedin.com/in/yulin-liu-473862230/)  
 
 ---
 
