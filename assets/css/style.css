@@ -11,18 +11,17 @@ body {
 }
 
 .sidebar {
-  width: 280px;
+  width: 50vw;
   background-color: #f9f9f9;
   padding: 2rem;
   border-right: 1px solid #ddd;
   overflow-y: auto;
-  flex-shrink: 0;
-  position: sticky;
-  top: 0;
+  box-sizing: border-box;
 }
 
 .main-content {
-  flex-grow: 1;
+  width: 50vw;
   padding: 2rem;
   overflow-y: auto;
+  box-sizing: border-box;
 }
