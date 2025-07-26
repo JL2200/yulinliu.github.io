@@ -56,6 +56,7 @@ Built a fully functioning autonomous vehicle from scratch.
 </figure>
 
 ---
+
 ### 🌀 Boomerang Aerodynamics Study
 Led experiments and simulations on boomerang joint angles and flight stability.
 
@@ -63,8 +64,15 @@ Led experiments and simulations on boomerang joint angles and flight stability.
 - Data used for AIAA paper on wingtip deflection and orientation performance
 
 **Figures:**
-- ![Figure 1](images/Boomerang/UWB.png)
-- ![Figure 2](images/Boomerang/simulation.jpg)
+<figure>
+  <img src="images/Boomerang/UWB.png" width="400"/>
+  <figcaption><em>Figure 1: Final hardware assembly</em></figcaption>
+</figure>
+
+<figure>
+  <img src="images/Boomerang/simulation.jpg" width="400"/>
+  <figcaption><em>Figure 2: CAD rendering</em></figcaption>
+</figure>
 
 ---
 
@@ -76,8 +84,15 @@ Designed and built a competitive robot to transport blocks across simulated floo
 - Simulated and prototyped with SolidWorks and laser cutting
 
 **Figures:**
-- ![Figure 1](images/Robot/robot photo.png)
-- ![Figure 2](images/Robot/animation.png)
+<figure>
+  <img src="images/Robot/robot photo.png" width="400"/>
+  <figcaption><em>Figure 1: Final hardware assembly</em></figcaption>
+</figure>
+
+<figure>
+  <img src="images/Robot/animation.png" width="400"/>
+  <figcaption><em>Figure 2: CAD rendering</em></figcaption>
+</figure>
 
 ---
 
@@ -88,8 +103,11 @@ Synthesized novel materials via solvothermal techniques.
 - Centrifugation, ultrasonic treatment, and acid washing to ensure purity
 - Focus on extreme environment material integrity
 
-**Figure:**
-- ![Procedure](images/Xtreme/procedure.jpg)
+**Figures:**
+<figure>
+  <img src="images/Xtreme/procedure.jpg" width="400"/>
+  <figcaption><em>Figure 1: Final hardware assembly</em></figcaption>
+</figure>
 
 ---
 
