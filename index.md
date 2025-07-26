@@ -1,28 +1,19 @@
----
-layout: default
-title: Yulin (Jason) Liu
----
+# Yulin (Jason) Liu
 
-![Profile Picture](images/profile.jpg)
+<img src="https://yulinliu2002.github.io/images/photo.jpg" width="250"/>
 
-# 👋 Hi, I’m Yulin (Jason) Liu
-
-**Mechanical Engineer | Robotics & Automation | Controls | Manufacturing**  
-🔍 Actively seeking full-time roles | 💼 UC San Diego ’25 | 📫 [yul202@ucsd.edu](mailto:yul202@ucsd.edu)  
-[LinkedIn](https://www.linkedin.com/in/yulin-liu-473862230/) | [GitHub](https://github.com/JL2200)  
+Mechanical Engineering @ UC San Diego | Robotics | Automation | Biomechanics  
+📍 San Diego, CA | 🌐 [LinkedIn](https://linkedin.com/in/yulin-liu-473862230) | ✉️ [Email](mailto:yul202@ucsd.edu) | 🔗 [GitHub](https://github.com/JL2200)
 
 ---
 
-## 🔧 Skills & Tools
+### About Me
 
-- **Programming**: Python, C++, MATLAB, LabVIEW
-- **Design & Simulation**: SolidWorks, Fusion 360, AutoCAD, ANSYS
-- **Hardware**: Arduino, Raspberry Pi, FANUC Robot, PLCs (Allen-Bradley, Siemens)
-- **Languages**: English, Mandarin, Cantonese
+I'm a mechanical engineer passionate about robotics, automation, and control systems. With hands-on experience at Trane Technologies and research labs at UC San Diego, I've led efforts in robotic integration, workflow optimization, and precision biomechanical system design. I thrive at the intersection of mechanical design, embedded systems, and human-centered engineering.
 
 ---
 
-## 📁 Projects
+## 🔬 Selected Projects
 
 ### 🧬 Cellxercise Machine (Biomechanical Culture Reactor)
 Musculoskeletal injuries require lab-based mechanical stimulation for tissue regeneration. Our system advances tissue engineering by applying both cyclic tension and compression inside a sterilizable, incubator-safe environment.
