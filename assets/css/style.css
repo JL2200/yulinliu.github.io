@@ -1,27 +1,49 @@
-/* assets/css/style.css */
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-family: Arial, sans-serif;
 }
 
 .container {
   display: flex;
-  height: 100vh;
-  overflow: hidden;
+  min-height: 100vh;
 }
 
 .sidebar {
-  width: 50vw;
+  width: 50%;
   background-color: #f9f9f9;
   padding: 2rem;
-  border-right: 1px solid #ddd;
-  overflow-y: auto;
   box-sizing: border-box;
+  text-align: center;
+  border-right: 1px solid #ddd;
+}
+
+.sidebar img {
+  width: 200px;
+  height: 200px;
+  border-radius: 10px;
+  object-fit: cover;
+  border: 2px solid #ddd;
+}
+
+.sidebar h2 {
+  margin-top: 1.2rem;
+  font-size: 1.8rem;
+}
+
+.sidebar p {
+  margin: 0.5rem 0;
+  font-size: 1rem;
+}
+
+.sidebar a {
+  text-decoration: none;
+  color: #007acc;
+  margin: 0 0.3rem;
 }
 
 .main-content {
-  width: 50vw;
+  width: 50%;
   padding: 2rem;
-  overflow-y: auto;
   box-sizing: border-box;
+  overflow-y: auto;
 }
