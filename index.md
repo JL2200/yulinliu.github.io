@@ -34,13 +34,16 @@ Musculoskeletal injuries require lab-based mechanical stimulation for tissue reg
 - Improved over commercial systems like ShellPa Pro  
 
 **Figures**  
-<img src="images/SeniorDesign/Assembly.jpg" width="300"/>  
-<em>Figure 1: Final hardware assembly</em>  
+<figure>
+  <img src="images/SeniorDesign/Assembly.jpg" width="300"/>
+  <figcaption><em>Figure 1: Final hardware assembly</em></figcaption>
+</figure>
 
-<img src="images/SeniorDesign/CAD.jpg" width="300"/>  
-<em>Figure 2: CAD rendering</em>
+<figure>
+  <img src="images/SeniorDesign/CAD.jpg" width="300"/>
+  <figcaption><em>Figure 2: CAD rendering</em></figcaption>
+</figure>
 
----
 
 ### 🚗 Autonomous Vehicle Robot
 
