@@ -1,81 +1,114 @@
-# Yulin (Jason) Liu
+---
+title: Yulin (Jason) Liu
+layout: default
+---
 
-<img src="https://yulinliu2002.github.io/images/photo.jpg" width="250"/>
+<style>
+  .project {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem;
+    align-items: center;
+    margin-bottom: 4rem;
+  }
+  .project img {
+    width: 100%;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  }
+  .project h3 {
+    margin-top: 0;
+  }
+  .intro {
+    text-align: center;
+    max-width: 700px;
+    margin: 2rem auto;
+  }
+</style>
 
-Mechanical Engineering @ UC San Diego | Robotics | Automation | Biomechanics  
-📍 San Diego, CA | 🌐 [LinkedIn](https://linkedin.com/in/yulin-liu-473862230) | ✉️ [Email](mailto:yul202@ucsd.edu) | 🔗 [GitHub](https://github.com/JL2200)
+<div class="intro">
+  <img src="images/profile.jpg" alt="Yulin Liu" style="width:150px; border-radius:50%; margin-bottom:1rem;">
+  <h1>Hi, I'm Yulin (Jason) Liu</h1>
+  <p>
+    Mechanical Engineer | Robotics & Automation | Creative Problem Solver<br>
+    <a href="mailto:yul202@ucsd.edu">yul202@ucsd.edu</a> · 
+    <a href="https://www.linkedin.com/in/yulin-liu-473862230/">LinkedIn</a> · 
+    <a href="Jason_CV.pdf">Resume</a>
+  </p>
+  <p>
+    I'm passionate about building intelligent machines that solve real-world problems. With hands-on experience in automation, robotics, and prototyping, I thrive at the intersection of engineering and innovation. Welcome to my portfolio!
+  </p>
+</div>
 
 ---
 
-### About Me
+## 🛠 Featured Projects
 
-I'm a mechanical engineer passionate about robotics, automation, and control systems. With hands-on experience at Trane Technologies and research labs at UC San Diego, I've led efforts in robotic integration, workflow optimization, and precision biomechanical system design. I thrive at the intersection of mechanical design, embedded systems, and human-centered engineering.
+<div class="project">
+  <div>
+    <h3>Biomechanical Culture Reactor (Bioreactor)</h3>
+    <p>
+      A dual-mode tension/compression system designed to support tendon and meniscus tissue regeneration. The system operates in an incubator, features modular sterilizable clamps, real-time force feedback, and is controlled via LabVIEW. It offers an alternative to costly commercial setups by enhancing modularity and reliability.
+    </p>
+  </div>
+  <div>
+    <img src="images/SeniorDesign/Assembly.jpg" alt="Bioreactor">
+    <img src="images/SeniorDesign/CAD.jpg" alt="CAD">
+  </div>
+</div>
 
----
+<div class="project">
+  <div>
+    <h3>Autonomous Vehicle with ChatGPT Integration</h3>
+    <p>
+      Developed a robot using Jetson Nano, OpenCV, ROS2, and DonkeyCar AI framework. It performs lane detection and basic path planning via ChatGPT prompts. Integrated LiDAR, GPS, and a depth camera. The goal: enable safe, semi-autonomous interaction in classroom settings.
+    </p>
+    <p><a href="https://github.com/JL2200/mae148_group8">GitHub Repository</a></p>
+  </div>
+  <div>
+    <img src="images/AutoCar/github_photo.jpg" alt="Autonomous Vehicle">
+    <img src="images/AutoCar/group photo.jpg" alt="Group Photo">
+  </div>
+</div>
 
-## 🔬 Selected Projects
+<div class="project">
+  <div>
+    <h3>Boomerang Aerodynamics Study</h3>
+    <p>
+      Focused on studying the effect of joint angles on boomerang flight using UWB tracking and MATLAB simulations. Conducted over 15 field trials for multiple geometries. Results contributed to an AIAA research paper, combining experimental data with simulation.
+    </p>
+  </div>
+  <div>
+    <img src="images/Boomerang/UWB.png" alt="Boomerang UWB">
+    <img src="images/Boomerang/simulation.jpg" alt="Boomerang Simulation">
+  </div>
+</div>
 
-### **Biomechanical Cell Culture System (Cellxercise)**
-**Jan 2025 – Present**  
-Designed a bioreactor simulating physiological forces (20 N @ 1 Hz, 10% strain) to promote tissue maturation.  
-- Programmed SMAC actuator with LabVIEW for 0.01 mm resolution.  
-- Machined steel/aluminum components using MasterCAM, HAAS CNC, and WARDJet.  
+<div class="project">
+  <div>
+    <h3>Robotic Lift Mechanism</h3>
+    <p>
+      Designed for a competitive event simulating vertical transport across floors. Featured a claw, four-bar linkage, and 1:4 torque system. Built using SolidWorks and laser cutting, the robot saw a 30% lift capacity improvement. Included detailed analysis of geometry and power efficiency.
+    </p>
+  </div>
+  <div>
+    <img src="images/Robot/robot photo.png" alt="Robot Photo">
+    <img src="images/Robot/animation.png" alt="Simulation">
+  </div>
+</div>
 
-💻 Skills: LabVIEW, Machining, Load Cells, Closed-Loop Control  
-🔗 [Team Website](https://sites.google.com/eng.ucsd.edu/mae156b-2025spring-team02/home)
-
----
-
-### **Autonomous Vehicle (DonkeyCar + ROS2)**
-**Jan 2024 – Present**  
-Enhanced Donkey Car with TensorFlow, ROS2, and OpenCV for lane-detection-based autonomous driving.  
-- Designed custom camera mount, Jetson Nano case, and remote emergency stop switch.  
-
-💻 Skills: Python, TensorFlow, OpenCV, ROS2  
-🔗 [GitHub](https://github.com/JL2200/mae148_group8)
-
----
-
-### **Trane Technologies – Automation Co-op**
-**Jul – Dec 2024 | Pueblo, CO**  
-- Programmed FANUC M-710iC 12L robot, integrated Allen Bradley PLCs/HMIs.  
-- Led production line workflow redesign, reducing cycle time by 20%.  
-- Prototyped robotic tube-stuffing and weld-cleaning automation stations.  
-
-💻 Skills: FANUC, PLCs, HMI, Lean Manufacturing, Cycle Time Optimization
-
----
-
-### **Boomerang Research & Simulation**
-**Feb 2023 – Present**  
-- Conducted 15+ field tests for each angle configuration (60°–120°).  
-- Integrated data into MATLAB for trajectory and airflow simulation.  
-- Co-authoring AIAA paper on wing tip deflection.
-
-💻 Skills: MATLAB, UWB Tracking, Field Testing, Simulation
-
----
-
-## 📚 Education
-
-**University of California, San Diego**  
-B.S. Mechanical Engineering – Control & Robotics (GPA: 3.6)  
-Expected Graduation: June 2025
-
----
-
-## 🛠 Technical Skills
-
-**Software & Tools:**  
-SolidWorks, Fusion 360, AutoCAD, MasterCAM, LabVIEW, RobotStudio, MATLAB, ANSYS, ROS, OpenCV, Python, C++, SQL, Arduino  
-
-**Hardware & Systems:**  
-FANUC Robot, Siemens & Allen Bradley PLCs, CNC Machining, SMAC Actuators, Load Cells, Waterjet, HAAS Mill
-
-**Languages:**  
-English, Mandarin, Cantonese  
-
-**Interests:**  
-📷 Photography | 🎸 Guitar | ⚽ Soccer | 🎶 Clarinet
+<div class="project">
+  <div>
+    <h3>Xtreme Materials Laboratory</h3>
+    <p>
+      Conducted material synthesis via solvothermal methods, using glovebox handling, acid washing, and centrifugation. Focused on lithium-carbon precursor reactions. Precision and purity were prioritized throughout the process for high-quality research outcomes.
+    </p>
+  </div>
+  <div>
+    <img src="images/Xtreme/procedure.jpg" alt="Xtreme Lab Procedure">
+  </div>
+</div>
 
 ---
+
+<p style="text-align:center">Thanks for visiting! Feel free to <a href="mailto:yul202@ucsd.edu">reach out</a> if you'd like to connect!</p>
