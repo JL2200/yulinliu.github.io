@@ -54,6 +54,7 @@ body {
 }
 
 .main-content {
+  margin-left: 40%; /* Match sidebar width */
   width: 60%;
   padding: 50px;
   background-color: #ffffff;
