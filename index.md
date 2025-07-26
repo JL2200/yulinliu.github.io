@@ -1,6 +1,6 @@
 # Yulin (Jason) Liu
 
-<img src="https://avatars.githubusercontent.com/u/151251752?v=4" width="250"/>
+<img src="https://yulinliu2002.github.io/images/photo.jpg" width="250"/>
 
 Mechanical Engineering @ UC San Diego | Robotics | Automation | Biomechanics  
 📍 San Diego, CA | 🌐 [LinkedIn](https://linkedin.com/in/yulin-liu-473862230) | ✉️ [Email](mailto:yul202@ucsd.edu) | 🔗 [GitHub](https://github.com/JL2200)
