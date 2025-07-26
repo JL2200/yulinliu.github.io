@@ -24,12 +24,12 @@ Musculoskeletal injuries require lab-based mechanical stimulation for tissue reg
 
 **Figures:**
 <figure>
-  <img src="images/SeniorDesign/Assembly.jpg" width="300"/>
+  <img src="images/SeniorDesign/Assembly.jpg" width="400"/>
   <figcaption><em>Figure 1: Final hardware assembly</em></figcaption>
 </figure>
 
 <figure>
-  <img src="images/SeniorDesign/CAD.jpg" width="300"/>
+  <img src="images/SeniorDesign/CAD.jpg" width="400"/>
   <figcaption><em>Figure 2: CAD rendering</em></figcaption>
 </figure>
 
