@@ -1,18 +1,3 @@
-# Yulin (Jason) Liu
-
-<img src="https://yulinliu2002.github.io/images/photo.jpg" width="250"/>
-
-Mechanical Engineering @ UC San Diego | Robotics | Automation | Biomechanics  
-📍 San Diego, CA | 🌐 [LinkedIn](https://linkedin.com/in/yulin-liu-473862230) | ✉️ [Email](mailto:yul202@ucsd.edu) | 🔗 [GitHub](https://github.com/JL2200)
-
----
-
-### About Me
-
-I'm a mechanical engineer passionate about robotics, automation, and control systems. With hands-on experience at Trane Technologies and research labs at UC San Diego, I've led efforts in robotic integration, workflow optimization, and precision biomechanical system design. I thrive at the intersection of mechanical design, embedded systems, and human-centered engineering.
-
----
-
 ## 🔬 Selected Projects
 
 ### 🧬 Cellxercise Machine (Biomechanical Culture Reactor)
