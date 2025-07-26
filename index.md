@@ -1,125 +1,81 @@
+# Yulin (Jason) Liu
+
+<img src="https://avatars.githubusercontent.com/u/151251752?v=4" width="250"/>
+
+Mechanical Engineering @ UC San Diego | Robotics | Automation | Biomechanics  
+📍 San Diego, CA | 🌐 [LinkedIn](https://linkedin.com/in/yulin-liu-473862230) | ✉️ [Email](mailto:yul202@ucsd.edu) | 🔗 [GitHub](https://github.com/JL2200)
+
 ---
-layout: default
-title: yulinliu
+
+### About Me
+
+I'm a mechanical engineer passionate about robotics, automation, and control systems. With hands-on experience at Trane Technologies and research labs at UC San Diego, I've led efforts in robotic integration, workflow optimization, and precision biomechanical system design. I thrive at the intersection of mechanical design, embedded systems, and human-centered engineering.
+
 ---
 
+## 🔬 Selected Projects
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+### **Biomechanical Cell Culture System (Cellxercise)**
+**Jan 2025 – Present**  
+Designed a bioreactor simulating physiological forces (20 N @ 1 Hz, 10% strain) to promote tissue maturation.  
+- Programmed SMAC actuator with LabVIEW for 0.01 mm resolution.  
+- Machined steel/aluminum components using MasterCAM, HAAS CNC, and WARDJet.  
 
-[Link to another page](./another-page.html).
+💻 Skills: LabVIEW, Machining, Load Cells, Closed-Loop Control  
+🔗 [Team Website](https://sites.google.com/eng.ucsd.edu/mae156b-2025spring-team02/home)
 
-There should be whitespace between paragraphs.
+---
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+### **Autonomous Vehicle (DonkeyCar + ROS2)**
+**Jan 2024 – Present**  
+Enhanced Donkey Car with TensorFlow, ROS2, and OpenCV for lane-detection-based autonomous driving.  
+- Designed custom camera mount, Jetson Nano case, and remote emergency stop switch.  
 
-# Header 1
+💻 Skills: Python, TensorFlow, OpenCV, ROS2  
+🔗 [GitHub](https://github.com/JL2200/mae148_group8)
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+---
 
-## Header 2
+### **Trane Technologies – Automation Co-op**
+**Jul – Dec 2024 | Pueblo, CO**  
+- Programmed FANUC M-710iC 12L robot, integrated Allen Bradley PLCs/HMIs.  
+- Led production line workflow redesign, reducing cycle time by 20%.  
+- Prototyped robotic tube-stuffing and weld-cleaning automation stations.  
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+💻 Skills: FANUC, PLCs, HMI, Lean Manufacturing, Cycle Time Optimization
 
-### Header 3
+---
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+### **Boomerang Research & Simulation**
+**Feb 2023 – Present**  
+- Conducted 15+ field tests for each angle configuration (60°–120°).  
+- Integrated data into MATLAB for trajectory and airflow simulation.  
+- Co-authoring AIAA paper on wing tip deflection.
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+💻 Skills: MATLAB, UWB Tracking, Field Testing, Simulation
 
-#### Header 4
+---
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+## 📚 Education
 
-##### Header 5
+**University of California, San Diego**  
+B.S. Mechanical Engineering – Control & Robotics (GPA: 3.6)  
+Expected Graduation: June 2025
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+---
 
-###### Header 6
+## 🛠 Technical Skills
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+**Software & Tools:**  
+SolidWorks, Fusion 360, AutoCAD, MasterCAM, LabVIEW, RobotStudio, MATLAB, ANSYS, ROS, OpenCV, Python, C++, SQL, Arduino  
 
-### There's a horizontal rule below this.
+**Hardware & Systems:**  
+FANUC Robot, Siemens & Allen Bradley PLCs, CNC Machining, SMAC Actuators, Load Cells, Waterjet, HAAS Mill
 
-* * *
+**Languages:**  
+English, Mandarin, Cantonese  
 
-### Here is an unordered list:
+**Interests:**  
+📷 Photography | 🎸 Guitar | ⚽ Soccer | 🎶 Clarinet
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+---
