@@ -23,8 +23,15 @@ Musculoskeletal injuries require lab-based mechanical stimulation for tissue reg
 - Improved over commercial systems like ShellPa Pro
 
 **Figures:**
-- ![Figure 1](images/SeniorDesign/Assembly.jpg)
-- ![Figure 2](images/SeniorDesign/CAD.jpg)
+<figure>
+  <img src="images/SeniorDesign/Assembly.jpg" width="300"/>
+  <figcaption><em>Figure 1: Final hardware assembly</em></figcaption>
+</figure>
+
+<figure>
+  <img src="images/SeniorDesign/CAD.jpg" width="300"/>
+  <figcaption><em>Figure 2: CAD rendering</em></figcaption>
+</figure>
 
 ---
 
