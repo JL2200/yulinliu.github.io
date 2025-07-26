@@ -23,8 +23,6 @@ I'm a mechanical engineer passionate about robotics, automation, and control sys
 
 ## 🔬 Selected Projects
 
----
-
 ### 🧬 Cellxercise Machine (Biomechanical Culture Reactor)
 
 Musculoskeletal injuries require lab-based mechanical stimulation for tissue regeneration. Our system advances tissue engineering by applying both cyclic tension and compression inside a sterilizable, incubator-safe environment.
@@ -33,12 +31,17 @@ Musculoskeletal injuries require lab-based mechanical stimulation for tissue reg
 - Real-time force feedback, LabVIEW control, reusable modular clamps  
 - Improved over commercial systems like ShellPa Pro  
 
-**Figures**  
-<img src="images/SeniorDesign/Assembly.jpg" width="300"/>  
-<em>Figure 1: Final hardware assembly</em>  
+**Figures**
 
-<img src="images/SeniorDesign/CAD.jpg" width="300"/>  
-<em>Figure 2: CAD rendering</em>
+<figure>
+  <img src="images/SeniorDesign/Assembly.jpg" width="200"/>
+  <figcaption><em>Figure 1: Final hardware assembly</em></figcaption>
+</figure>
+
+<figure>
+  <img src="images/SeniorDesign/CAD.jpg" width="200"/>
+  <figcaption><em>Figure 2: CAD rendering</em></figcaption>
+</figure>
 
 ---
 
@@ -52,12 +55,17 @@ Built a fully functioning autonomous vehicle from scratch.
 
 📎 [Project GitHub Repo](https://github.com/JL2200/mae148_group8)
 
-**Figures**  
-<img src="images/AutoCar/github_photo.jpg" width="300"/>  
-<em>Figure 1: The assembled robot</em>  
+**Figures**
 
-<img src="images/AutoCar/group photo.jpg" width="300"/>  
-<em>Figure 2: Group photo with the project</em>
+<figure>
+  <img src="images/AutoCar/github_photo.jpg" width="200"/>
+  <figcaption><em>Figure 1: Autonomous car on test track</em></figcaption>
+</figure>
+
+<figure>
+  <img src="images/AutoCar/group photo.jpg" width="200"/>
+  <figcaption><em>Figure 2: Team group photo</em></figcaption>
+</figure>
 
 ---
 
@@ -68,12 +76,17 @@ Led experiments and simulations on boomerang joint angles and flight stability.
 - Conducted UWB-based field tests with MATLAB airflow simulations  
 - Data used for AIAA paper on wingtip deflection and orientation performance  
 
-**Figures**  
-<img src="images/Boomerang/UWB.png" width="300"/>  
-<em>Figure 1: UWB setup and prototype</em>  
+**Figures**
 
-<img src="images/Boomerang/simulation.jpg" width="300"/>  
-<em>Figure 2: MATLAB simulation results</em>
+<figure>
+  <img src="images/Boomerang/UWB.png" width="200"/>
+  <figcaption><em>Figure 1: UWB and boomerang prototype</em></figcaption>
+</figure>
+
+<figure>
+  <img src="images/Boomerang/simulation.jpg" width="200"/>
+  <figcaption><em>Figure 2: MATLAB airflow simulation</em></figcaption>
+</figure>
 
 ---
 
@@ -82,15 +95,20 @@ Led experiments and simulations on boomerang joint angles and flight stability.
 Designed and built a competitive robot to transport blocks across simulated floors.
 
 - Integrated claw, four-bar linkage, and drivetrain  
-- Double torque gear system (1:4) increased lift capacity by 30%  
-- Prototyped with SolidWorks and laser cutting  
+- Double torque gear system with 1:4 ratio increased lift capacity by 30%  
+- Simulated and prototyped with SolidWorks and laser cutting  
 
-**Figures**  
-<img src="images/Robot/robot photo.png" width="300"/>  
-<em>Figure 1: Robot in motion</em>  
+**Figures**
 
-<img src="images/Robot/animation.png" width="300"/>  
-<em>Figure 2: Fusion 360 simulation</em>
+<figure>
+  <img src="images/Robot/robot photo.png" width="200"/>
+  <figcaption><em>Figure 1: Robot in motion</em></figcaption>
+</figure>
+
+<figure>
+  <img src="images/Robot/animation.png" width="200"/>
+  <figcaption><em>Figure 2: Fusion 360 animation</em></figcaption>
+</figure>
 
 ---
 
@@ -102,9 +120,12 @@ Synthesized novel materials via solvothermal techniques.
 - Centrifugation, ultrasonic treatment, and acid washing to ensure purity  
 - Focus on extreme environment material integrity  
 
-**Figure**  
-<img src="images/Xtreme/procedure.jpg" width="300"/>  
-<em>Figure: Experimental procedure overview</em>
+**Figure**
+
+<figure>
+  <img src="images/Xtreme/procedure.jpg" width="200"/>
+  <figcaption><em>Figure: Experimental procedure in glove box</em></figcaption>
+</figure>
 
 </td>
 </tr>
