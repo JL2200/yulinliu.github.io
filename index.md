@@ -45,11 +45,17 @@ Built a fully functioning autonomous vehicle from scratch.
 📎 [Project GitHub Repo](https://github.com/JL2200/mae148_group8)
 
 **Figures:**
-- ![Figure 1](images/AutoCar/github_photo.jpg)
-- ![Figure 2](images/AutoCar/group photo.jpg)
+<figure>
+  <img src="images/AutoCar/github_photo.jpg" width="400"/>
+  <figcaption><em>Figure 1: Final hardware assembly</em></figcaption>
+</figure>
+
+<figure>
+  <img src="images/AutoCar/group photo.jpg" width="400"/>
+  <figcaption><em>Figure 2: CAD rendering</em></figcaption>
+</figure>
 
 ---
-
 ### 🌀 Boomerang Aerodynamics Study
 Led experiments and simulations on boomerang joint angles and flight stability.
 
