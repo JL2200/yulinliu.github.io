@@ -1,115 +1,143 @@
-## 🔬 Selected Projects
+## Selected Projects
 
-### 🧬 Cellxercise Machine (Biomechanical Culture Reactor)
-Musculoskeletal injuries require lab-based mechanical stimulation for tissue regeneration. Our system advances tissue engineering by applying both cyclic tension and compression inside a sterilizable, incubator-safe environment.
+---
 
-- Dual-mode mechanical loading (up to 20N at 1Hz)  
-- Real-time force feedback, LabVIEW control, reusable modular clamps  
-- Improved over commercial systems like ShellPa Pro  
+### Cellxercise Machine (Biomechanical Culture Reactor)  
+[Project Website](https://sites.google.com/eng.ucsd.edu/mae156b-2025spring-team02/home)
 
-**Figures:**
+**Challenge**: Commercial bioreactor systems often lack the ability to apply both tension and compression in a controlled, incubator-compatible, and modular format, limiting research on musculoskeletal tissue regeneration.
 
+**Solution**:
+- Designed a dual-mode actuator system using a SMAC LCA50 capable of delivering cyclic loads up to 20 N at 1 Hz
+- Implemented real-time feedback via a load cell and LabVIEW-based control system
+- Developed modular clamps for tension and compression that are reusable and sterilizable
+- Ensured incubator compatibility, easy disassembly, and high force precision through rigorous design iteration and testing
+
+**Result**:
+- Achieved over 90% strain recovery and high fatigue resistance across 6,000 cycles
+- Delivered improved usability and force accuracy compared to commercial systems such as ShellPa Pro
+
+**Figures**:  
 <figure>
-  <img src="images/SeniorDesign/Assembly.jpg" style="width: 90%; max-width: 700px;" />
-  <figcaption><em>Figure 1: Final Hardware Assembly</em></figcaption>
+  <img src="images/SeniorDesign/CAD.jpg" width="400"/>
+  <figcaption><em>Figure 1: Full CAD Assembly</em></figcaption>
 </figure>
 
 <figure>
-  <img src="images/SeniorDesign/CAD.jpg" style="width: 90%; max-width: 700px;" />
-  <figcaption><em>Figure 2: CAD Rendering</em></figcaption>
+  <img src="images/SeniorDesign/Assembly.jpg" width="400"/>
+  <figcaption><em>Figure 2: Final Hardware Assembly in Incubator</em></figcaption>
 </figure>
 
 ---
 
-### 🚗 Autonomous Vehicle Robot
-Built a fully functioning autonomous vehicle from scratch.
+### Autonomous Vehicle Robot  
+[GitHub Repository](https://github.com/JL2200/mae148_group8)
 
-- Lane detection with OpenCV, GPS, and LiDAR  
-- Integrated ChatGPT for dynamic path generation  
-- ROS2-based, using Jetson Nano, DonkeyCar, OakD, and Point One GPS  
+**Challenge**: Create a lane-following autonomous vehicle capable of real-time navigation using onboard sensing and compute hardware.
 
-📎 [Project GitHub Repo](https://github.com/JL2200/mae148_group8)
+**Solution**:
+- Developed a robotic car integrating Jetson Nano, Oak-D camera, Point One GPS, and LiDAR
+- Used ROS2 and DonkeyCar to manage controls, perception, and communication
+- Built a custom API to incorporate ChatGPT into real-time decision-making for re-routing and diagnostics
 
-**Figures:**
+**Result**:
+- Demonstrated full autonomy with real-time lane following and speech-enabled interaction during a timed demo
+- Successfully completed multiple laps on a test track with stable path control and adaptable command execution
 
+**Figures**:  
 <figure>
-  <img src="images/AutoCar/github_photo.jpg" style="width: 90%; max-width: 700px;" />
-  <figcaption><em>Figure 1: The TranquiBot</em></figcaption>
+  <img src="images/AutoCar/github_photo.jpg" width="400"/>
+  <figcaption><em>Figure 1: Autonomous Vehicle with Sensor Suite</em></figcaption>
 </figure>
 
 <figure>
-  <img src="images/AutoCar/group photo.jpg" style="width: 90%; max-width: 700px;" />
-  <figcaption><em>Figure 2: Group Photo</em></figcaption>
-</figure>
-
----
-
-### 🌀 Boomerang Aerodynamics Study
-Led experiments and simulations on boomerang joint angles and flight stability.
-
-- Conducted UWB-based field tests with MATLAB airflow simulations  
-- Data used for AIAA paper on wingtip deflection and orientation performance  
-
-**Figures:**
-
-<figure>
-  <img src="images/Boomerang/UWB.png" style="width: 90%; max-width: 700px;" />
-  <figcaption><em>Figure 1: Sensors and Data Capturing</em></figcaption>
-</figure>
-
-<figure>
-  <img src="images/Boomerang/simulation.jpg" style="width: 90%; max-width: 700px;" />
-  <figcaption><em>Figure 2: Triblader Aerodynamics</em></figcaption>
+  <img src="images/AutoCar/group photo.jpg" width="400"/>
+  <figcaption><em>Figure 2: Full Team and Vehicle at Track</em></figcaption>
 </figure>
 
 ---
 
-### 🤖 Robotic Lift Mechanism
-Designed and built a competitive robot to transport blocks across simulated floors.
+### Boomerang Aerodynamics Research
 
-- Integrated claw, four-bar linkage, and drivetrain  
-- Double torque gear system with 1:4 ratio increased lift capacity by 30%  
-- Simulated and prototyped with SolidWorks and laser cutting  
+**Challenge**: Investigate how boomerang joint angles impact flight stability and aerodynamic performance.
 
-**Figures:**
+**Solution**:
+- Conducted over 60 field tests with boomerangs of varying joint angles (60°, 90°, 105°, 120°) using UWB positioning
+- Simulated airflow and torque in MATLAB to evaluate lift and spin behavior
+- Analyzed angular velocity and orientation changes through video-based frame analysis
 
+**Result**:
+- Findings contributed to an AIAA paper on wingtip deflection and aerodynamic consistency
+- Identified optimal geometries for rotational stability and efficient lift generation
+
+**Figures**:  
 <figure>
-  <img src="images/Robot/robot photo.png" style="width: 90%; max-width: 700px;" />
-  <figcaption><em>Figure 1: Robot in Motion</em></figcaption>
+  <img src="images/Boomerang/UWB.png" width="400"/>
+  <figcaption><em>Figure 1: UWB Sensor Configuration and Data Capture</em></figcaption>
 </figure>
 
 <figure>
-  <img src="images/Robot/animation.png" style="width: 90%; max-width: 700px;" />
-  <figcaption><em>Figure 2: Animation</em></figcaption>
-</figure>
-
----
-
-### 🧪 Xtreme Materials Lab (UCSD)
-Synthesized novel materials via solvothermal techniques.
-
-- Glove box preparation, inert mixing of carbon-lithium precursors  
-- Centrifugation, ultrasonic treatment, and acid washing to ensure purity  
-- Focus on extreme environment material integrity  
-
-**Figures:**
-
-<figure>
-  <img src="images/Xtreme/procedure.jpg" style="width: 90%; max-width: 700px;" />
-  <figcaption><em>Figure 1: Power Washing Process</em></figcaption>
+  <img src="images/Boomerang/simulation.jpg" width="400"/>
+  <figcaption><em>Figure 2: Airflow Simulation of Jointed Boomerang</em></figcaption>
 </figure>
 
 ---
 
-## 📄 Resume
+### Robotic Lift Mechanism
+
+**Challenge**: Design a mobile robot to transport weighted blocks between platforms at various elevations with limited mechanical footprint.
+
+**Solution**:
+- Designed a compact 4-bar linkage lifting mechanism with a 1:4 torque-enhancing gear train
+- Incorporated a claw gripper and traction-based drivetrain
+- Modeled all components in SolidWorks and built the frame using laser-cut materials
+
+**Result**:
+- Increased payload capacity by 30% compared to the baseline design
+- Completed all competition challenges reliably with consistent mechanical performance
+
+**Figures**:  
+<figure>
+  <img src="images/Robot/animation.png" width="400"/>
+  <figcaption><em>Figure 1: CAD Simulation of Lift Mechanism</em></figcaption>
+</figure>
+
+<figure>
+  <img src="images/Robot/robot photo.png" width="400"/>
+  <figcaption><em>Figure 2: Physical Robot in Action</em></figcaption>
+</figure>
+
+---
+
+### Xtreme Materials Laboratory (UC San Diego)
+
+**Challenge**: Synthesize carbon-lithium composite materials under controlled environments for applications in high-temperature and reactive settings.
+
+**Solution**:
+- Conducted solvothermal reactions within gloveboxes using carbon and lithium precursors
+- Applied ultrasonic treatment, centrifugation, and acid washing for high-purity sample isolation
+- Created repeatable synthesis workflows under inert atmospheric conditions
+
+**Result**:
+- Produced high-integrity composite samples suitable for materials testing in extreme environments
+- Contributed to materials research on lithium-based composite conductors
+
+**Figures**:  
+<figure>
+  <img src="images/Xtreme/procedure.jpg" width="400"/>
+  <figcaption><em>Figure 1: Glovebox Procedure for Composite Synthesis</em></figcaption>
+</figure>
+
+---
+
+## Resume  
 [Download CV (PDF)](Jason_CV.pdf)
 
 ---
 
-## 📬 Contact
-
+## Contact  
 **Email**: [yul202@ucsd.edu](mailto:yul202@ucsd.edu)  
-**LinkedIn**: [linkedin.com/in/yulin-liu-473862230](https://www.linkedin.com/in/yulin-liu-473862230/)  
+**LinkedIn**: [linkedin.com/in/yulin-liu-473862230](https://www.linkedin.com/in/yulin-liu-473862230/)
 
 ---
 
